@@ -22,7 +22,15 @@
         "surname": "Lemon",
         "photo_url": "none",
         "balance": 666
+    },
+    {
+        "id": 4,
+        "name": "Popyga",
+        "surname": "Bunt",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLp9zuJQyMLlgFmGLvPjUxvhcCW6c13FhRqA&usqp=CAU",
+        "balance": 69        
     }    
+
     ]
 }
 
