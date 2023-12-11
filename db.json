@@ -1,1 +1,11 @@
-
+{
+        "users":[
+            {
+                "id": 1,
+                "name": "Sour",
+                "surname": "Lemon",
+                "photo_url": "none",
+                "balance": 666
+            }
+        ]
+}
