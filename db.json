@@ -28,8 +28,16 @@
         "name": "Popyga",
         "surname": "Bunt",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLp9zuJQyMLlgFmGLvPjUxvhcCW6c13FhRqA&usqp=CAU",
-        "balance": 69        
-    }    
+        "balance": 880022235        
+    },    
+
+    {
+        "id": 5,
+        "name": "Gennadiy",
+        "surname": "Gorin",
+        "photo_url": "none",
+        "balance": 7549825674
+    }
 
     ]
 }
