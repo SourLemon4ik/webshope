@@ -51,7 +51,7 @@
         },
         {
 
-            "id":2,
+            "id": 2,
             "name":"bear",
             "description":"fluffy",
             "price": -1,
@@ -65,10 +65,10 @@
             "description": ".ytrap roloc ekam naC",
             "price": 199,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "photo_url": "https://images.prom.ua/3102209437_w640_h640_bgr-34-sredstvo-bgr-34.jpg"
 
         }
-
+        
     ]
 }
 
