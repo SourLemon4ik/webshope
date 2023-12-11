@@ -1,14 +1,36 @@
 {
+
+
     "users":[
         {
-            "id": 1,
-            "name": "Dmitry",
-            "surname": "Kirtadze",
-            "photo_url": "https://avatars.githubusercontent.com/u/73993967?v=4",
-            "balance": 1000000
-        }
+        "id": 1,
+        "name": "Nikita",
+        "surname": "Tarapata",
+        "photo_url": "https://avatars.githubusercontent.com/u/88847509?v=4",
+        "balance": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Dmitry",
+        "surname": "Kirtadze",
+        "photo_url": "https://avatars.githubusercontent.com/u/73993967?v=4",
+        "balance": 1000000
+    },
+    {
+        "id": 3,
+        "name": "Sour",
+        "surname": "Lemon",
+        "photo_url": "none",
+        "balance": 666
+    },
+    {
+        "id": 4,
+        "name": "Gennadiy",
+        "surname": "Gorin",
+        "photo_url": "none",
+        "balance": 7549825674
+    }
     ]
-
 }
 
 
@@ -44,4 +66,5 @@
 
 
 
-
+=======
+>>>>>>> d418ecd7c44d99add429a95009d8c7745a761cfd
