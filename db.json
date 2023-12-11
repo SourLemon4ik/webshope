@@ -22,7 +22,14 @@
         "surname": "Lemon",
         "photo_url": "none",
         "balance": 666
-    }    
+    },
+    {
+        "id": 4,
+        "name": "Gennadiy",
+        "surname": "Gorin",
+        "photo_url": "none",
+        "balance": 7549825674
+    }
     ]
 }
 
