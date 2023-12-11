@@ -48,6 +48,15 @@
             "author_id": 1,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
             
+        },
+        {
+            
+            "id": 2,
+            "name": "BGR",
+            "description": ".ytrap roloc ekam naC",
+            "price": 199,
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
         }
 
     ]
