@@ -28,6 +28,18 @@
         "photo_url": "none",
         "balance": 7549825674
     }
+    ],
+    "products":[
+        {
+            
+            "id": 1,
+            "name": "RGB",
+            "description": "Can make color party.",
+            "price": 92,
+            "author_id": 1,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            
+        }
     ]
 }
 
