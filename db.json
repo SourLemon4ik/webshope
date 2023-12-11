@@ -1,1 +1,12 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Dmitry",
+            "surname": "Kirtadze",
+            "photo_url": "https://avatars.githubusercontent.com/u/73993967?v=4",
+            "balance": 1000000
+        }
+    ]
 
+}
