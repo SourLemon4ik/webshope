@@ -1,11 +1,28 @@
 {
-        "users":[
-            {
-                "id": 1,
-                "name": "Sour",
-                "surname": "Lemon",
-                "photo_url": "none",
-                "balance": 666
-            }
-        ]
+
+
+    "users":[
+        {
+        "id": 1,
+        "name": "Nikita",
+        "surname": "Tarapata",
+        "photo_url": "https://avatars.githubusercontent.com/u/88847509?v=4",
+        "balance": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Dmitry",
+        "surname": "Kirtadze",
+        "photo_url": "https://avatars.githubusercontent.com/u/73993967?v=4",
+        "balance": 1000000
+    },
+    {
+        "id": 3,
+        "name": "Sour",
+        "surname": "Lemon",
+        "photo_url": "none",
+        "balance": 666
+    }    
+    ]
 }
+
