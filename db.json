@@ -33,7 +33,7 @@
         "id": 5,
         "name": "Gennadiy",
         "surname": "Gorin",
-        "photo_url": "none",
+        "photo_url": "https://www.meme-arsenal.com/memes/7c6d52649b1cbee195f4f184c5a7d6a1.jpg",
         "balance": 7549825674
     }
 
@@ -62,13 +62,13 @@
             
             "id": 3,
             "name": "BGR",
-            "description": ".ytrap roloc ekam naC",
+            "description": "BGR",
             "price": 199,
             "author_id": 2,
             "photo_url": "https://images.prom.ua/3102209437_w640_h640_bgr-34-sredstvo-bgr-34.jpg"
 
         }
-        
+
     ]
 }
 
